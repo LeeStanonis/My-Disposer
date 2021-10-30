@@ -6,3 +6,4 @@ Split open grinder
 No workers today
 $
 Parameters of a busted disposer
+Dirt
